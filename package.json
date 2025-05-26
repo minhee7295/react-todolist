@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://minhee7295.github.io/react-project",
+  "homepage": "https://minhee7295.github.io/react-todolist",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
